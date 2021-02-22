@@ -2236,8 +2236,8 @@ math-random@^1.0.1:
   resolved "https://registry.npmjs.org/math-random/-/math-random-1.0.4.tgz"
 
 mermaid@^8.8.1:
-  version "8.8.4"
-  resolved "https://registry.npmjs.org/mermaid/-/mermaid-8.8.4.tgz"
+  version "8.9.1"
+  resolved "https://registry.yarnpkg.com/mermaid/-/mermaid-8.9.1.tgz#c84a4e3d34f71ad9c50d4edb88f65f29a1061462"
   dependencies:
     "@braintree/sanitize-url" "^3.1.0"
     d3 "^5.7.0"
